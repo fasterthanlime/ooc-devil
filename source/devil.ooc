@@ -1,3 +1,3 @@
 use devil
 
-ilutOglLoadImage: extern func (Char*) -> Int
+ilutGLLoadImage: extern func (Char*) -> Int
