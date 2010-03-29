@@ -1,5 +1,5 @@
 Name: DevIL
 Description: 
 Version: 1.7.7
-Libs: -lIL -lILU -lILUT
+Libs: -lIL, -lILU, -lILUT
 SourcePath: source/
