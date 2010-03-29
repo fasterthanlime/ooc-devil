@@ -1,0 +1,5 @@
+Name: DevIL
+Description: 
+Version: 1.7.7
+Libraries: -lIL
+SourcePath: source/
